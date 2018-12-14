@@ -23,4 +23,4 @@ USE:
 if( Viewport.documentWidth().width < 767 ){
 	// do something
 }
-``
+```
