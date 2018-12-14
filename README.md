@@ -5,7 +5,7 @@
 
 Guide and best practice of web development
 
-## Check viewport
+## 1. Check viewport
 GLOBAL:
 ```javascript
 var Viewport = {};
